@@ -9,9 +9,9 @@ from pyrogram.types import InlineQueryResultArticle
 
 Bot = Client(
     "tgDonatebot",
-    bot_token = os.environ["BOT_TOKEN"],
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"]
+    bot_token = os.environ["5711570037:AAFAMQCpMs2Lx-ap0a94Ciy-W7mEht13ryU"],
+    api_id = int(os.environ["14401954"]),
+    api_hash = os.environ["c342aca287037f205a0dcbe8c7d82579"]
 )
 
 
